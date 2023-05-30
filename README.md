@@ -37,5 +37,5 @@ Contributions to the unit converter project are welcome! If you encounter any bu
 
 ## Author
 
-This project is creted by Sonu Gupta 
+This project is created by Sonu Gupta.If you feel that there are some changes which are supposed to be done,I'm inviting you to make some changes in my project. 
 
